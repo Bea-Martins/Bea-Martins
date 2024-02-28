@@ -1,5 +1,5 @@
 <h1>
-  👋 Oii, eu sou a Beatriz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <br> Desenvolvedora Back-End.  
+  Oii, eu sou a Beatriz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <br> Desenvolvedora Back-End.  
 </h1>
 
 Tenho 26 anos, estou localizada em São Paulo, Brasil. <br>
