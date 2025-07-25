@@ -1,13 +1,13 @@
 <h1>
-  Oii, eu sou a Beatriz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <br> Desenvolvedora Back-End.  
+  Oii, eu sou a Beatriz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <br> Analista de BI.  
 </h1>
 
-Tenho 26 anos, estou localizada em São Paulo, Brasil. <br>
-Estou cursando **Engenharia de Software** na faculdade Unicesumar. Também sou aluna do **Bootcamp Back-End Python e Django** oferecido pela WoMakers Code, em parceria com iFood.
+Tenho 28 anos, estou localizada em São Paulo, Brasil. <br>
+Estou cursando **Tecnologia da Informação** na UNIVESP. Atualmente estudando para tirar minha primeira certificação Cloud Azure.
 
 <br>
 
-## 🛠 &nbsp;Estas são algumas das tecnologias e ferramentas que utilizo:
+## 🛠 &nbsp;Estas são algumas das tecnologias e ferramentas que tenho conhecimento:
 
 <div>
 
