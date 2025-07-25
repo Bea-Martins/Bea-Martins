@@ -4,7 +4,6 @@
 
 Tenho 28 anos, estou localizada em São Paulo, Brasil. <br>
 Estou cursando **Tecnologia da Informação** na UNIVESP. Atualmente estudando para tirar minha primeira certificação Cloud Azure.
-
 <br>
 
 ## 🛠 &nbsp;Estas são algumas das tecnologias e ferramentas que tenho conhecimento:
